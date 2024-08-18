@@ -1,0 +1,15 @@
+@media screen and (min-width:1024px) {
+    .recipe-card {
+       width: 50%;
+       margin: 150px auto;
+       border-radius: 25px;
+    }
+ 
+    .recipe-img-container {
+       padding: 35px 35px 0 35px;
+    }
+ 
+    .recipe-img {
+       border-radius: 12px;
+    }
+ }

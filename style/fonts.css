@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Outfit-var;
+    src: url('../assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+    font-display: swap;
+ }
+ 
+ @font-face {
+    font-family: YoungSerif-reg;
+    src: url('../assets/fonts/young-serif/YoungSerif-Regular.ttf');
+    font-display: swap;
+ }
+ :root{
+    --font-outfit-var: 'Outfit-var';
+    --font-youngserif-reg: 'YoungSerif-reg';
+ }

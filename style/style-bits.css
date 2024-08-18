@@ -1,0 +1,5 @@
+.border-bottom-line {
+    border-bottom: 1px solid var(--c-Stone-600);
+ }
+
+ .py-12 {padding-block: 12px;}

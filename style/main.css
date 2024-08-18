@@ -1,0 +1,58 @@
+ .recipe-card {
+    background-color: var(--c-White);
+ }
+ 
+ .recipe-img {
+    display: block;
+    max-width: 100%;
+ }
+ 
+ .recipe-content {
+    padding: 30px;
+ }
+ 
+ .recipe-name {
+    color: var(--c-Stone-900);
+    font-weight: 500;
+    font-family: var(--font-youngserif-reg);
+ }
+ 
+ 
+ .recipe-preparation-time {
+    padding: 20px;
+    margin-block: 20px;
+    border-radius: 12px;
+    background-color: var(--c-Rose-50);
+ }
+ 
+ 
+ .preparation-list li::before {
+    color: var(--c-Rose-800);
+ }
+ 
+ .ingredient-list li::before {
+    color: var(--c-Brown-800);
+ }
+
+ .instruction-list {
+    padding-inline: 30px;
+ }
+ 
+ .instruction-list li {
+    margin-top: 15px;
+ }
+ 
+ .instruction-list li::marker {
+    color: var(--c-Brown-800);
+ }
+ 
+ /* table */
+ .nutrition-table {
+    width: 100%;
+    border-collapse: collapse;
+ }
+ 
+
+
+ 
+ 

@@ -1,0 +1,9 @@
+
+.title-x{
+    font-weight: 400;
+    font-family: var(--font-youngserif-reg);
+}
+.title-m{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
