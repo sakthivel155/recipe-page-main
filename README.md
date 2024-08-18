@@ -20,8 +20,8 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
  
 ### Links
 
-- Solution URL: [Repo](https://github.com/sakthivel155/qr-code-component-main)
-- Live Site URL: [Live Demo](https://sakthivel155.github.io/qr-code-component-main/)
+- Solution URL: [Repo](https://github.com/sakthivel155/recipe-page-main)
+- Live Site URL: [Live Demo](https://sakthivel155.github.io/recipe-page-main/)
 
 ## My process
 

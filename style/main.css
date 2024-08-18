@@ -12,17 +12,17 @@
  }
  
  .recipe-name {
-    color: var(--c-Stone-900);
     font-weight: 500;
     font-family: var(--font-youngserif-reg);
+    color: var(--c-Stone-900);
  }
  
  
  .recipe-preparation-time {
     padding: 20px;
+    background-color: var(--c-Rose-50);
     margin-block: 20px;
     border-radius: 12px;
-    background-color: var(--c-Rose-50);
  }
  
  
@@ -33,6 +33,9 @@
  .ingredient-list li::before {
     color: var(--c-Brown-800);
  }
+ .instruction-list li::marker {
+    color: var(--c-Brown-800);
+ }
 
  .instruction-list {
     padding-inline: 30px;
@@ -40,10 +43,6 @@
  
  .instruction-list li {
     margin-top: 15px;
- }
- 
- .instruction-list li::marker {
-    color: var(--c-Brown-800);
  }
  
  /* table */
